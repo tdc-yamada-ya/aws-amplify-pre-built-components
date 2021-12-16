@@ -115,9 +115,6 @@ const App = () => {
                 <Link to="/HeroLayout4">HeroLayout4</Link>
               </li>
               <li>
-                <Link to="/index.js">index.js</Link>
-              </li>
-              <li>
                 <Link to="/MarketingFooter">MarketingFooter</Link>
               </li>
               <li>
